@@ -1,0 +1,13 @@
+.messages {
+    padding: 5% 0;
+    overflow: auto;
+    flex: auto;
+  }
+
+  .messagesContainer {
+    display: flex;
+    flex-direction: column;
+    height: 100%; /* Or specific height */
+    overflow-y: auto; /* Enable scrolling */
+  }
+  
